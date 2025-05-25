@@ -241,6 +241,9 @@ Experiments are performed for different image restoration tasks including, image
     <th>Deraining Dataset</th>
     <th>Rain200L</th>
    <th>Rain200H</th>
+       <th>DID-Data</th>
+   <th>DDN-Data</th>
+       <th>SPA-Data</th>
   </tr>
 </thead>
 <tbody>
@@ -248,6 +251,9 @@ Experiments are performed for different image restoration tasks including, image
     <td>Baidu NetDisk</td>
     <td> <a href="https://pan.baidu.com/s/1ERIl028O1mTPIQY9-D1g1g?pwd=uwyv">Download</a>  </td>
    <td> <a href="https://pan.baidu.com/s/1MzIf2P-eqsXaWqDBOklhcw?pwd=8hbx">Download</a>  </td>
+       <td> <a>Download</a>  </td>
+       <td> <a>Download</a>  </td>
+       <td> <a>Download</a>  </td>
   </tr>
 </tbody>
 </table>
