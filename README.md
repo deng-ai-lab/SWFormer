@@ -117,6 +117,190 @@ Experiments are performed for different image restoration tasks including, image
 
 ## Visual Results
 
+<table>
+<thead>
+  <tr>
+    <th>Dehazing Dataset</th>
+    <th>SOTS-indoor</th>
+    <th>SOTS-outdoor</th>
+    <th>O-HAZE</th>
+    <th>NH-HAZE</th>
+    <th>DENSE-HAZE</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Baidu NetDisk</td>
+    <td> <a>Download</a>  </td>
+    <td> <a>Download</a>  </td>
+    <td> <a href="https://pan.baidu.com/s/1kTjm6KoMTLtJ4kgfoMI2YQ?pwd=dmm8">Download</a>  </td>
+    <td> <a href="https://pan.baidu.com/s/1TjXt-G0DBjmfzQuA70_Klw?pwd=utka">Download</a>  </td>
+    <td> <a href="https://pan.baidu.com/s/1uB0LnGmg8h40l8GofCh6Qg?pwd=wy2a">Download</a>  </td>
+  </tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+  <tr>
+    <th>Low-light Dataset</th>
+       <th>LOLv1-norm</th>
+   <th>LOLv1-gtmean</th>
+    <th>LOLv2-real-norm</th>
+   <th>LOLv2-real-gtmean</th>
+    <th>LOLv2-syn-norm</th>
+   <th>LOLv2-syn-gtmean</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Baidu NetDisk</td>
+    <td> <a>Download</a>  </td>
+    <td> <a>Download</a>  </td>
+       <td> <a href="https://pan.baidu.com/s/1q1S2NGsRV9Ww2h5vl4ck6g?pwd=t22u">Download</a>  </td>
+    <td> <a href="https://pan.baidu.com/s/1q1S2NGsRV9Ww2h5vl4ck6g?pwd=t22u">Download</a>  </td>
+       <td> <a href="https://pan.baidu.com/s/1AbaR0N33KilxOPOFlMw8Bw?pwd=xayw">Download</a>  </td>
+    <td> <a href="https://pan.baidu.com/s/1AbaR0N33KilxOPOFlMw8Bw?pwd=xayw">Download</a>  </td>
+  </tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+  <tr>
+    <th>Underwater Dataset</th>
+    <th>UIEB</th>
+    <th>LSUI</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Baidu NetDisk</td>
+    <td> <a href="https://pan.baidu.com/s/1o3gr_DRh7A47yCWgHvlt0A?pwd=tqxz">Download</a>  </td>
+    <td> <a href="https://pan.baidu.com/s/1VK90eQfuzd-rJAbugscbkA?pwd=svit">Download</a>  </td>
+  </tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+  <tr>
+    <th>Motion Deblurring Dataset</th>
+    <th>GoPro</th>
+   <th>HIDE</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Baidu NetDisk</td>
+    <td> <a href="https://pan.baidu.com/s/1pI7f3KuWed4T_eGHdF1kwA?pwd=sxdi">Download</a>  </td>
+   <td> <a href="https://pan.baidu.com/s/1G3CEF9pf7gaiIT2A0Bc14A?pwd=sw3j">Download</a>  </td>
+  </tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+  <tr>
+    <th>Desnowing Dataset</th>
+   <th>CSD</th>
+    <th>SRRS</th>
+   <th>Snow100K</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Baidu NetDisk</td>
+    <td> <a>Download</a>  </td>
+   <td> <a>Download</a>  </td>
+   <td> <a>Download</a>  </td>
+  </tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+  <tr>
+    <th>Raindrop Dataset</th>
+    <th>RainDrop-A</th>
+   <th>RainDrop-B</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Baidu NetDisk</td>
+    <td> <a href="https://pan.baidu.com/s/1ohRmtKNYQeJEbPj2ovcEMw?pwd=5f79">Download</a>  </td>
+   <td> <a href="https://pan.baidu.com/s/1ohRmtKNYQeJEbPj2ovcEMw?pwd=5f79">Download</a>  </td>
+  </tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+  <tr>
+    <th>Deraining Dataset</th>
+    <th>Rain200L</th>
+   <th>Rain200H</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Baidu NetDisk</td>
+    <td> <a href="https://pan.baidu.com/s/1ERIl028O1mTPIQY9-D1g1g?pwd=uwyv">Download</a>  </td>
+   <td> <a href="https://pan.baidu.com/s/1MzIf2P-eqsXaWqDBOklhcw?pwd=8hbx">Download</a>  </td>
+  </tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+  <tr>
+    <th>Cloud Removal Dataset</th>
+    <th>CUHK-CR1</th>
+   <th>CUHK-CR2</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Baidu NetDisk</td>
+    <td> <a href="https://pan.baidu.com/s/1tqLXwBMdGGTpq1CsRhgRSw?pwd=vaxm">Download</a>  </td>
+   <td> <a href="https://pan.baidu.com/s/1uALCCIuDD8bShtbN2-_hpw?pwd=tbcc">Download</a>  </td>
+  </tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+  <tr>
+    <th>Defocus Blur Dataset</th>
+    <th>DPDD</th>
+   <th>LFDOF</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Baidu NetDisk</td>
+    <td> <a>Download</a>  </td>
+   <td> <a href="https://pan.baidu.com/s/1oDTlHnIRhAoiVpfi7PUYDw?pwd=3vfn">Download</a>  </td>
+  </tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+  <tr>
+    <th>Shadow Removal Dataset</th>
+    <th>AISTD</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Baidu NetDisk</td>
+   <td> <a href="https://pan.baidu.com/s/1Ds6lTQbTcMzdzlFYmaw9XQ?pwd=9dr2">Download</a>  </td>
+  </tr>
+</tbody>
+</table>
+
 ## References
 
 Here is the BibTeX citation for the paper:
